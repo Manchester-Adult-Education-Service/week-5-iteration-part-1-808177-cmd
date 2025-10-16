@@ -33,7 +33,8 @@ print("-------------------------------------------\n"
 #     print("Hello number", i)
 #
 # Write your code below:
-
+for i in range(5):
+    print("my neme is ikram!")
 
 # Task 2: Counting with for loops
 # -------------------------------------------
@@ -52,6 +53,8 @@ print("-------------------------------------------\n"
 #     print(i)
 #
 # Write your code below:
+for i in range(0,10):
+    print(i+1)
 
 
 # Task 3: Using for loops with user input
@@ -71,7 +74,8 @@ print("-------------------------------------------\n"
 #     print("This is loop", i + 1)
 #
 # Write your code below:
-
+for i in range(0,10):
+    print("This is my number", i + 1)
 
 # -------------------------------------------
 # Submitting Your Work (after Tasks 1–3)
